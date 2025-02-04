@@ -1,0 +1,1 @@
+# executavel.pular_anuncio
